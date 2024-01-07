@@ -1,7 +1,6 @@
 ## <p align="center">Índice</p> 
 ### <p align="right">ZENITY_AUTOMATIZACIÓN_USUARIOS_JOAQUIN_BLANCO_CONTRERAS Curso: ASIR2_IES_ALBARREGAS</p>
 
-## Índice
 1. [Introducción](#introducción)
 2. [Utilización de la Herramienta](#utilización-de-la-herramienta)
 3. [Creación de Grupo](#creación-de-grupo)
