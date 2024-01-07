@@ -1,5 +1,5 @@
-## <p align="center">Índice</p> 
 ### <p align="right">ZENITY_AUTOMATIZACIÓN_USUARIOS_JOAQUIN_BLANCO_CONTRERAS Curso: ASIR2_IES_ALBARREGAS</p>
+## <p align="center">Índice</p> 
 
 1. [Introducción](#introducción)
 2. [Utilización de la Herramienta](#utilización-de-la-herramienta)
