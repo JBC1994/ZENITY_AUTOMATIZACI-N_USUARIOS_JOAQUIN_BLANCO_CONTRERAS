@@ -474,6 +474,7 @@ function OP8 {
                         else
                             zenity --error --text="Archivo no válido o no seleccionado."
                         fi
+                        sudo rm $archivo_usuarios
                         ;;
                     *)
                         zenity --error --text="Opción no válida."
