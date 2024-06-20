@@ -1,4 +1,4 @@
-<p align="right"><strong>ZENITY_AUTOMATIZACIÓN_USUARIOS_JOAQUIN_BLANCO_CONTRERAS</strong><br>Curso: ASIR2_IES_ALBARREGAS</p>
+<p align="right"><strong>ZENITY_AUTOMATIZACIÓN_USUARIOS_JOAQUIN_BLANCO_CONTRERAS_Beta01</strong><br>Curso: ASIR2_IES_ALBARREGAS</p>
 
 <p align="center"><strong>Índice</strong></p>
 
